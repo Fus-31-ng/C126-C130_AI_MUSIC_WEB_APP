@@ -1,0 +1,29 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+} 
+ 
+.note  {
+    font-size: 15px;
+    color: maroon;
+}
+
+body {
+    background-size: cover;
+}
+
+.song_name {
+   text-align: center;
+}
+
+#name {
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas {
+    border:5px solid gainsboro;
+    border-radius:20px;
+}
+
